@@ -3,9 +3,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
    
-      <title>http://localhost:4000/jasper2/</title>
+      <title>http://localhost:4000/</title>
    
-   <link>http://localhost:4000/jasper2/</link>
+   <link>http://localhost:4000/</link>
    <description>The professional publishing platform</description>
    <language>en-uk</language>
    
@@ -15,21 +15,21 @@
    <description>
    <![CDATA[ The professional publishing platform ]]>
    </description>
-   <link>http://localhost:4000/jasper2/</link>
+   <link>http://localhost:4000/</link>
    <image>
-   <url>http://localhost:4000/jasper2/assets/images/favicon.png</url>
+   <url>http://localhost:4000/assets/images/favicon.png</url>
    <title>Ghost</title>
-   <link>http://localhost:4000/jasper2/</link>
+   <link>http://localhost:4000/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="http://localhost:4000/jasper2/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="http://localhost:4000/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
 	  <title>First React Native App</title>
-	  <link>http://localhost:4000/jasper2/welcome</link>
+	  <link>http://localhost:4000/welcome</link>
 		
 				
 						<author>Ghost</author>
@@ -48,7 +48,7 @@
 				
 		
 	  <pubDate>2017-12-02T05:00:00-05:00</pubDate>
-	  <guid>http://localhost:4000/jasper2/welcome</guid>
+	  <guid>http://localhost:4000/welcome</guid>
 	  <description><![CDATA[
 	     <p>Hey! Just launched new react-native app, 小商人（small business man）</p>
 
