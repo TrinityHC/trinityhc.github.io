@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title>http://localhost:4000/jasper2/</title>
+   
+   <link>http://localhost:4000/jasper2/</link>
+   <description>The professional publishing platform</description>
+   <language>en-uk</language>
+   
+   <title>
+   <![CDATA[ Ghost ]]>
+   </title>
+   <description>
+   <![CDATA[ The professional publishing platform ]]>
+   </description>
+   <link>http://localhost:4000/jasper2/</link>
+   <image>
+   <url>http://localhost:4000/jasper2/assets/images/favicon.png</url>
+   <title>Ghost</title>
+   <link>http://localhost:4000/jasper2/</link>
+   </image>
+   <generator>Jekyll 3.6.2</generator>
+   <lastBuildDate></lastBuildDate>
+   <atom:link href="http://localhost:4000/jasper2/rss.xml" rel="self" type="application/rss+xml"/>
+   <ttl>60</ttl>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>First React Native App</title>
+	  <link>http://localhost:4000/jasper2/welcome</link>
+		
+				
+						<author>Ghost</author>
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+				
+		
+	  <pubDate>2017-12-02T05:00:00-05:00</pubDate>
+	  <guid>http://localhost:4000/jasper2/welcome</guid>
+	  <description><![CDATA[
+	     <p>Hey! Just launched new react-native app, 小商人（small business man）</p>
+
+<p>If you have any concern or suggestion, please contact <strong>rfan089@yahoo.ca</strong> or 613-869-2697</p>
+
+<p><img src="assets/images/sbm.jpg" alt="App Screenshot" class="small-image" /></p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
